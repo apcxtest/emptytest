@@ -1,10 +1,11 @@
 name: Checkmarx One Scan
 on:
-  pull:
+  pull_request:
     branches:
       - main
       - master
       - dev
+      - branch3
   #schedule:
   #  - cron: "*/5 * * * *"
     
