@@ -1,6 +1,6 @@
 name: Checkmarx One Scan
 on:
-  pull:
+  pull_request:
     branches:
       - main
       - master
