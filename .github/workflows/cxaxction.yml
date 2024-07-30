@@ -5,7 +5,7 @@ on:
       - main
       - master
       - dev
-      - branch3
+      - branch5
   #schedule:
   #  - cron: "*/5 * * * *"
     
